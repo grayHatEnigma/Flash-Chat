@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "171532975826",
+    "firebase_url": "https://flash-chat-6c5a6.firebaseio.com",
+    "project_id": "flash-chat-6c5a6",
+    "storage_bucket": "flash-chat-6c5a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171532975826:android:d2e958bf1ec9ceb036b70b",
+        "android_client_info": {
+          "package_name": "com.grayhatenigma.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171532975826-vtp04s8983pjl32b357itad24q3clevt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvEsycsOiA7M5xernymRqiSAiW1ZsZtak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171532975826-vtp04s8983pjl32b357itad24q3clevt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
